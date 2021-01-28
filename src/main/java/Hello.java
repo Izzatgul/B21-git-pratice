@@ -4,6 +4,9 @@ public class Hello {
 
         System.out.println("Hello world, B22 ");
         System.out.println("B21 future SDET learning git");
+        // movie on the phone 10 minutes
+        // movie on the phone 20 minutes
+        //another final 10 minutes before going back to living room
 
 
     }
